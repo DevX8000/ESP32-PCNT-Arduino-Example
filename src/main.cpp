@@ -12,6 +12,7 @@
 */
 #include <Arduino.h>
 #include <stdio.h>
+#include "soc/pcnt_struct.h"
 #include "freertos/FreeRTOS.h"
 #include "freertos/portmacro.h"
 #include "freertos/task.h"
